@@ -1,0 +1,9 @@
+c:\users\sala-5\documents\visual studio 2013\Projects\ApWindowsMDI\ApWindowsMDI\bin\Debug\ApWindowsMDI.exe.config
+c:\users\sala-5\documents\visual studio 2013\Projects\ApWindowsMDI\ApWindowsMDI\bin\Debug\ApWindowsMDI.exe
+c:\users\sala-5\documents\visual studio 2013\Projects\ApWindowsMDI\ApWindowsMDI\bin\Debug\ApWindowsMDI.pdb
+c:\users\sala-5\documents\visual studio 2013\Projects\ApWindowsMDI\ApWindowsMDI\obj\Debug\ApWindowsMDI.csprojResolveAssemblyReference.cache
+c:\users\sala-5\documents\visual studio 2013\Projects\ApWindowsMDI\ApWindowsMDI\obj\Debug\ApWindowsMDI.FormPadre.resources
+c:\users\sala-5\documents\visual studio 2013\Projects\ApWindowsMDI\ApWindowsMDI\obj\Debug\ApWindowsMDI.Properties.Resources.resources
+c:\users\sala-5\documents\visual studio 2013\Projects\ApWindowsMDI\ApWindowsMDI\obj\Debug\ApWindowsMDI.csproj.GenerateResource.Cache
+c:\users\sala-5\documents\visual studio 2013\Projects\ApWindowsMDI\ApWindowsMDI\obj\Debug\ApWindowsMDI.exe
+c:\users\sala-5\documents\visual studio 2013\Projects\ApWindowsMDI\ApWindowsMDI\obj\Debug\ApWindowsMDI.pdb
